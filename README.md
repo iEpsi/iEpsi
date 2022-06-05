@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @iEpsi
+- 👀 I’m interested in creating my own free RPG game
+- 🌱 I’m currently learning unity and C# to make that possible
